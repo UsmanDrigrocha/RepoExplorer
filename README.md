@@ -8,6 +8,10 @@ Built as a take-home engineering exercise to demonstrate external API
 integration, backend design (caching, rate-limit handling, validation), and
 clean UI implementation on top of Next.js.
 
+## Demo
+
+<video src="RepoExplorerDemo.mp4" controls muted title="Repo Explorer demo"></video>
+
 ## Features
 
 - 🔍 Debounced, keyboard-navigable user search with a live results dropdown
