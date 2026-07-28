@@ -10,7 +10,7 @@ clean UI implementation on top of Next.js.
 
 ## Demo
 
-<video src="RepoExplorerDemo.mp4" controls muted title="Repo Explorer demo"></video>
+**Demo:** [Watch the demo video](https://github.com/UsmanDrigrocha/RepoExplorer/raw/main/RepoExplorerDemo.mp4)
 
 ## Features
 
